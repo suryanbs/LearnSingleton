@@ -10,5 +10,6 @@ Parallel.Invoke(() => water.PrintWater(),
 
 
 // This is a feature branch.
-
+//Let's learn Squash and merge
+//Second commit
 
